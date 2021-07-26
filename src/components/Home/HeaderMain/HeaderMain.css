@@ -1,0 +1,31 @@
+.rs-fullvideo-cover {
+  top: 0px;
+  left: 0px;
+  background: transparent;
+  z-index: 10;
+}
+.i-col {
+  border-right: 1px solid black;
+}
+
+.btn-c {
+  background-image: linear-gradient(
+    to right top,
+    #4211b1,
+    #3019a0,
+    #1f1c8e,
+    #101c7c,
+    #051b69,
+    #031c6b,
+    #021c6d,
+    #001d6f,
+    #001f86,
+    #00209e,
+    #041fb6,
+    #1b1bcd
+  );
+  box-shadow: 10px 10px 14px 1px rgb(0 0 0 / 20%);
+}
+.s-section {
+  background-color: #bdb8ff;
+}

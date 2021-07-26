@@ -1,0 +1,33 @@
+.r-section {
+  background-image: linear-gradient(
+    to right top,
+    #191514,
+    #1c1213,
+    #1d0f14,
+    #1c0c19,
+    #160b1e,
+    #160b1e,
+    #160b1e,
+    #160b1e,
+    #1c0c19,
+    #1d0f14,
+    #1c1213,
+    #191514
+  );
+}
+
+.review-items {
+  color: #666;
+  padding: 10px;
+  background: #191514;
+  -webkit-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+  border: 4px solid transparent;
+  border-bottom-right-radius: 45px;
+  position: relative;
+}
+.r-icon {
+  color: #4e3f3f;
+  background-color: #1d0f14 !important;
+}

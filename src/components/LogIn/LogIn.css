@@ -1,0 +1,26 @@
+.login-box {
+  margin-top: 200px;
+}
+
+.login-btn {
+  border-radius: 30px;
+  padding: 10px 100px;
+  justify-content: space-between;
+  border: 1px solid gray;
+  background-image: linear-gradient(
+    to right top,
+    #9abcf6,
+    #738fcb,
+    #4f64a1,
+    #2c3c78,
+    #031850
+  );
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.login-btn img {
+  margin-right: 50px;
+  height: 30px;
+  align-items: flex-start;
+}

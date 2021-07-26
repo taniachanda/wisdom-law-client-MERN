@@ -1,0 +1,13 @@
+.navbar {
+  background: #031850;
+  color: #faf8ff;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.navbar-brand {
+  color: #faf8ff;
+  font-weight: bold;
+  font-size: 18px;
+}
+.nav-items {
+  color: #faf8ff;
+}
