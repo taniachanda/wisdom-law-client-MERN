@@ -8,7 +8,7 @@ A Fullstack Service website.
 
 ## Click below to view server repository
 
-https://github.com/taniachanda/wisdom-law-client-MERN
+https://github.com/taniachanda/wisdom-law-server-MERN
 
 ## Tech Stack
 
