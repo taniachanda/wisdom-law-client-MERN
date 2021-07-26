@@ -1,24 +1,32 @@
+# Wisdom Law
 
+A Fullstack Service website.
 
-Wisdom Law
-Apr 2021 – Present
+## Click below to view the website
 
-Project description Features:
+[Wisdom Law](https://opu-law.web.app)
 
-• Single-page web app of law service firm.
-• Through several dashboards user or admin can use desire pages.
-• Users and admin panel can use web page through Google authentication.
-• Client can choose the services, see details and give reviews
-• Admin can add new services, and change clients placed services status.
+## Click below to view server repository
 
-Using Technology:
+https://github.com/taniachanda/wisdom-law-server-MERN
 
-Front-end-Technology: HTML5, CSS3, React Bootstrap, React.js
-Back-end-Technology: Node JS, Express JS, MongoDB
+## Tech Stack
 
-Git Repository Links:
+**Client:**
+- React
+- Bootstrap
+- React router
+- React Hook Form
+- Axios
+- Stripe.js
+- Firebase Authentication
 
-a. https://github.com/taniachanda/wisdom-law-firm-server (Server)
+## Used By
 
-Live Site: https://opu-law.web.app
-# wisdom-law-client-MERN
+- Single-page web app of law service firm.
+- Through several dashboards user or admin can use desire pages.
+- Users and admin panel can use web page through Google authentication.
+- Client can select a services, place order through stripe payment and give review about a service.
+- Admin can add and delete the services, and change the status of the clients booked services.
+
+## Thank You.
